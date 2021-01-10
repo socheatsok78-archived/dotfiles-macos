@@ -1,0 +1,104 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/cask-fonts": {
+        "revision": "f9cabb8f2de5547959293ea019e6563e4dfc9afe"
+      },
+      "pp-spaces/khmer-unicode": {
+        "revision": "44f0485e8e682aece3d081670a6d7239abf1b918"
+      }
+    },
+    "cask": {
+      "khmer-unicode-layout": {
+        "version": "1.1.0",
+        "options": {
+          "full_name": "khmer-unicode-layout"
+        }
+      },
+      "font-fira-code": {
+        "version": "5.2",
+        "options": {
+          "full_name": "font-fira-code"
+        }
+      },
+      "font-khmeros-bundle": {
+        "version": "5.0.0",
+        "options": {
+          "full_name": "font-khmeros-bundle"
+        }
+      },
+      "font-open-khmer-school": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-open-khmer-school"
+        }
+      },
+      "font-kantumruy": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-kantumruy"
+        }
+      },
+      "font-kdam-thmor": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-kdam-thmor"
+        }
+      },
+      "font-lato": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-lato"
+        }
+      },
+      "font-open-sans": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-open-sans"
+        }
+      },
+      "font-roboto": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-roboto"
+        }
+      },
+      "font-source-code-pro-for-powerline": {
+        "version": "latest",
+        "options": {
+          "full_name": "font-source-code-pro-for-powerline"
+        }
+      },
+      "font-source-code-pro": {
+        "version": "2.032R-ro-1.052R-it-1.012R-VAR",
+        "options": {
+          "full_name": "font-source-code-pro"
+        }
+      },
+      "font-source-sans-pro": {
+        "version": "3.028R",
+        "options": {
+          "full_name": "font-source-sans-pro"
+        }
+      },
+      "font-source-serif-pro": {
+        "version": "3.001R",
+        "options": {
+          "full_name": "font-source-serif-pro"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "2.7.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "3ed9ff27bdd8057d9559670768c6e8bd65835dae",
+        "CLT": "12.3.0.0.1.1607026830",
+        "Xcode": "12.3",
+        "macOS": "11.1"
+      }
+    }
+  }
+}

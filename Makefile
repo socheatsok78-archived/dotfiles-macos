@@ -22,3 +22,7 @@ install-developments:
 install-tools:
 	@echo "macOS: Installing tools..."
 	@brew bundle --file "Homebrew/tools.brewfile"
+
+fonts:
+	@echo "macOS: Installing fonts..."
+	@brew bundle --file "Caskbrew/fonts.brewfile"
