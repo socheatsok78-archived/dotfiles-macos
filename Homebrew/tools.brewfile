@@ -1,0 +1,19 @@
+# Application manager
+brew "mas"
+
+# CLI Tools
+brew "tldr"
+brew "htop"
+brew "bat"                  # "cat" on steroids
+brew "exa"                  # A modern replacement for ls
+brew "prettyping"
+brew "lolcat"
+brew "tree"                 # List directories in a tree structure
+brew "httpie"
+brew "thefuck"              # No fuck given
+brew "jq"                   # lightweight and flexible command-line JSON processor
+brew "scrcpy"               # Display and control your Android device
+brew "watch"                # Execute a program periodically, showing output fullscreen
+
+# Download Tools
+brew "youtube-dl"

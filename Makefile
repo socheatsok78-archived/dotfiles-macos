@@ -12,3 +12,7 @@ install-commons:
 install-developments:
 	@echo "macOS: Installing developments..."
 	@brew bundle --file "Homebrew/developments.brewfile"
+
+install-tools:
+	@echo "macOS: Installing tools..."
+	@brew bundle --file "Homebrew/tools.brewfile"
