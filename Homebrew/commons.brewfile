@@ -3,3 +3,4 @@ brew "antigen"
 brew "svn"
 brew "whalebrew"    # Homebrew, but with Docker images
 brew "coreutils"    # Those that come with macOS are outdated
+brew "mackup"       # Mackup, Keep your application settings in sync.
