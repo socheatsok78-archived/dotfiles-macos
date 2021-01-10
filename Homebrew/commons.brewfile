@@ -1,3 +1,5 @@
 brew "stow"
 brew "antigen"
-brew "whalebrew" # Homebrew, but with Docker images
+brew "svn"
+brew "whalebrew"    # Homebrew, but with Docker images
+brew "coreutils"    # Those that come with macOS are outdated
