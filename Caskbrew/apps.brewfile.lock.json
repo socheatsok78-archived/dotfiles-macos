@@ -1,0 +1,174 @@
+{
+  "entries": {
+    "cask": {
+      "google-chrome": {
+        "version": "87.0.4280.141,4280.141",
+        "options": {
+          "full_name": "google-chrome"
+        }
+      },
+      "google-drive-file-stream": {
+        "version": "44.0.14",
+        "options": {
+          "full_name": "google-drive-file-stream"
+        }
+      },
+      "chrome-remote-desktop-host": {
+        "version": "88.0.4324.33",
+        "options": {
+          "full_name": "chrome-remote-desktop-host"
+        }
+      },
+      "firefox": {
+        "version": "84.0.2",
+        "options": {
+          "full_name": "firefox"
+        }
+      },
+      "pocket-casts": {
+        "version": "1.5,44",
+        "options": {
+          "full_name": "pocket-casts"
+        }
+      },
+      "vlc": {
+        "version": "3.0.11.1",
+        "options": {
+          "full_name": "vlc"
+        }
+      },
+      "visual-studio-code": {
+        "version": "1.52.1",
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      },
+      "fork": {
+        "version": "2.2",
+        "options": {
+          "full_name": "fork"
+        }
+      },
+      "alacritty": {
+        "version": "0.7.1",
+        "options": {
+          "full_name": "alacritty"
+        }
+      },
+      "iterm2": {
+        "version": "3.4.3",
+        "options": {
+          "full_name": "iterm2"
+        }
+      },
+      "github": {
+        "version": "2.6.1-afb56263",
+        "options": {
+          "full_name": "github"
+        }
+      },
+      "tableplus": {
+        "version": "3.12.0,354",
+        "options": {
+          "full_name": "tableplus"
+        }
+      },
+      "insomnia": {
+        "version": "2020.5.2",
+        "options": {
+          "full_name": "insomnia"
+        }
+      },
+      "insomnia-designer": {
+        "version": "2020.5.2",
+        "options": {
+          "full_name": "insomnia-designer"
+        }
+      },
+      "docker": {
+        "version": "3.0.4,51218",
+        "options": {
+          "full_name": "docker"
+        }
+      },
+      "virtualbox": {
+        "version": "6.1.16,140961",
+        "options": {
+          "full_name": "virtualbox"
+        }
+      },
+      "db-browser-for-sqlite": {
+        "version": "3.12.1",
+        "options": {
+          "full_name": "db-browser-for-sqlite"
+        }
+      },
+      "ngrok": {
+        "version": "latest",
+        "options": {
+          "full_name": "ngrok"
+        }
+      },
+      "gpg-suite": {
+        "version": "2020.2",
+        "options": {
+          "full_name": "gpg-suite"
+        }
+      },
+      "pock": {
+        "version": "0.7.2",
+        "options": {
+          "full_name": "pock"
+        }
+      },
+      "mounty": {
+        "version": "1.10,14",
+        "options": {
+          "full_name": "mounty"
+        }
+      },
+      "cheatsheet": {
+        "version": "1.6",
+        "options": {
+          "full_name": "cheatsheet"
+        }
+      },
+      "dozer": {
+        "version": "4.0.0",
+        "options": {
+          "full_name": "dozer"
+        }
+      },
+      "stand": {
+        "version": "2.1.1",
+        "options": {
+          "full_name": "stand"
+        }
+      },
+      "eul": {
+        "version": "1.5",
+        "options": {
+          "full_name": "eul"
+        }
+      },
+      "transmission": {
+        "version": "3.00",
+        "options": {
+          "full_name": "transmission"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "2.7.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "3ed9ff27bdd8057d9559670768c6e8bd65835dae",
+        "CLT": "12.3.0.0.1.1607026830",
+        "Xcode": "12.3",
+        "macOS": "11.1"
+      }
+    }
+  }
+}
