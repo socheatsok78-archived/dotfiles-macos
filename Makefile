@@ -1,9 +1,13 @@
 .PHONY: help
 
 help:
-	@echo "Help dotfiles-macos"
+	@echo "dotfiles-macos's Help"
 	@echo
-	@echo "- install: Install all availble dependencies"
+	@echo "Commands:"
+	@echo "- install: Install all base dependencies"
+	@echo "- apps: Install apps dependencies"
+	@echo "- virtuals: Install virtuals dependencies"
+	@echo "- fonts: Install fonts dependencies"
 
 install: install-commons install-developments install-tools
 	# Installed recipes
