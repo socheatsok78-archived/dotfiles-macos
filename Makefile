@@ -5,6 +5,12 @@ help:
 	@echo
 	@echo "- install: Install all availble dependencies"
 
+install: install-commons install-developments install-tools
+	# Installed recipes
+	# - install-commons
+	# - install-developments
+	# - install-tools
+
 install-commons:
 	@echo "macOS: Installing commons..."
 	@brew bundle --file "Homebrew/commons.brewfile"
