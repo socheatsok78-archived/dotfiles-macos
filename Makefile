@@ -31,6 +31,10 @@ apps:
 	@echo "macOS: Installing apps..."
 	@brew bundle --file "Caskbrew/apps.brewfile"
 
+virtuals:
+	@echo "macOS: Installing virtuals..."
+	@brew bundle --file "Caskbrew/virtuals.brewfile"
+
 fonts:
 	@echo "macOS: Installing fonts..."
 	@brew bundle --file "Caskbrew/fonts.brewfile"
