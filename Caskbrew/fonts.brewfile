@@ -6,6 +6,7 @@ tap "pp-spaces/khmer-unicode"
 cask "khmer-unicode-layout"
 
 # Fonts
+cask "font-fira-code"
 cask 'font-lato'
 cask 'font-open-sans'
 cask 'font-roboto'
@@ -15,7 +16,6 @@ cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
 # Khmer Fonts
-cask "font-fira-code"
 cask "font-khmeros-bundle"
 cask "font-open-khmer-school"
 cask "font-kantumruy"
