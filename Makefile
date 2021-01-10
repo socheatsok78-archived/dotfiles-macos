@@ -8,3 +8,7 @@ help:
 install-commons:
 	@echo "macOS: Installing commons..."
 	@brew bundle --file "Homebrew/commons.brewfile"
+
+install-developments:
+	@echo "macOS: Installing developments..."
+	@brew bundle --file "Homebrew/developments.brewfile"
