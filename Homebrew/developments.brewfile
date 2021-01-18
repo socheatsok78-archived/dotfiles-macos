@@ -3,6 +3,7 @@ tap "github/gh"
 tap "facebook/fb"
 tap "heroku/brew"
 tap "dart-lang/dart"
+tap "hashicorp/tap"
 
 # Version Control
 brew "git"
@@ -16,6 +17,10 @@ brew "deno"                 # Deno A secure runtime for JavaScript and TypeScrip
 brew "yarn"                 # NodeJS Package Manager
 brew "php@7.4"              # PHP v7.4
 brew "composer"             # PHP Package Manager
+
+# Hashicorp
+brew "hashicorp/tap/waypoint"
+brew "hashicorp/tap/terraform"
 
 # Deployment Tools
 brew "awscli"

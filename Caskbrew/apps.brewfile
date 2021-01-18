@@ -1,9 +1,4 @@
-# -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-#  Applications
-# -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
-#
-# This will required user password install!!!
-#
+tap "hashicorp/tap"
 
 # Apps
 cask "google-chrome"                # Google Chrome
@@ -37,3 +32,6 @@ cask "dozer"                        # Hide menu bar icons
 cask "stand"                        # Reminds you to stand up
 cask "eul"                          # macOS status monitoring app written in SwiftUI
 cask "transmission"                 # Torrent client
+
+# Hashicorp
+cask "vagrant"
