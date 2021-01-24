@@ -52,26 +52,26 @@
         }
       },
       "htop": {
-        "version": "3.0.4",
+        "version": "3.0.5",
         "bottle": {
           "cellar": ":any",
           "prefix": "/usr/local",
           "files": {
             "big_sur": {
-              "url": "https://homebrew.bintray.com/bottles/htop-3.0.4.big_sur.bottle.tar.gz",
-              "sha256": "5b426171d65d806dd20cb54ebc86bba7f3f3093242de8a3a88492a90f07c14c7"
+              "url": "https://homebrew.bintray.com/bottles/htop-3.0.5.big_sur.bottle.tar.gz",
+              "sha256": "8f4e4c5d0ee34c41e008bb9a2ed4331303a42bd594ac358a822604a145c868ea"
             },
             "arm64_big_sur": {
-              "url": "https://homebrew.bintray.com/bottles/htop-3.0.4.arm64_big_sur.bottle.tar.gz",
-              "sha256": "57b9e6f3528fa3ffa0b1bfb64c18c42e4bc2cd8dfdb20d0373b97fe1dc805016"
+              "url": "https://homebrew.bintray.com/bottles/htop-3.0.5.arm64_big_sur.bottle.tar.gz",
+              "sha256": "e2b32da2189775e5a303b948bf2bf86224f2850786e849371efe002402f26c6f"
             },
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/htop-3.0.4.catalina.bottle.tar.gz",
-              "sha256": "f2d386785f45508a062701ce936e316daf8c312d73da02cb3c58ef79393e3a53"
+              "url": "https://homebrew.bintray.com/bottles/htop-3.0.5.catalina.bottle.tar.gz",
+              "sha256": "7dc2bf8825918876e3a853acbc9d7045786d1d418fdae2b0a4e6d4500006a08e"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/htop-3.0.4.mojave.bottle.tar.gz",
-              "sha256": "94975a5e046d3a4ee564c7a8d75355f91138f818e6782dcc8ca07e08fb18bf8e"
+              "url": "https://homebrew.bintray.com/bottles/htop-3.0.5.mojave.bottle.tar.gz",
+              "sha256": "a009b141dcf7b95c60da3ef685ea0736be0c0a5e1e0de0945153697c6a032e2a"
             }
           }
         }
@@ -102,22 +102,26 @@
         }
       },
       "exa": {
-        "version": "0.9.0_1",
+        "version": "0.9.0_2",
         "bottle": {
           "cellar": ":any_skip_relocation",
           "prefix": "/usr/local",
           "files": {
             "big_sur": {
-              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_1.big_sur.bottle.tar.gz",
-              "sha256": "3ee8e461f50fa870cd035a44ba9973e26192953e235adef9d2936f2bdab0b1d3"
+              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_2.big_sur.bottle.tar.gz",
+              "sha256": "2ea88382cf3e9906bc27cd37f3f57c953cce9fcd686d958824ccb27093c5c8da"
+            },
+            "arm64_big_sur": {
+              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_2.arm64_big_sur.bottle.tar.gz",
+              "sha256": "b5fc2d5300cbd6ab2d3c113ce011c6ac187e8e774f3d3e4d1f1592b109206d39"
             },
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_1.catalina.bottle.tar.gz",
-              "sha256": "33332800316bd21da72087c8d21d2948e7b0bf678fc9d3c562c9e84c139b6de3"
+              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_2.catalina.bottle.tar.gz",
+              "sha256": "979193384c57b8858b592d1200468cb6584ffa7df7833d6777eb8637e0ecfc97"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_1.mojave.bottle.tar.gz",
-              "sha256": "507c870baae72b7961d695abbbee5029b86aee3e88037fafd08f4b55d78257b2"
+              "url": "https://homebrew.bintray.com/bottles/exa-0.9.0_2.mojave.bottle.tar.gz",
+              "sha256": "af7d2f089dc99cab221dbc57c33c443e112a843911d561588621e60378f56a46"
             }
           }
         }
@@ -334,26 +338,26 @@
         }
       },
       "youtube-dl": {
-        "version": "2021.1.8",
+        "version": "2021.1.16",
         "bottle": {
           "cellar": ":any_skip_relocation",
           "prefix": "/usr/local",
           "files": {
             "big_sur": {
-              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.8.big_sur.bottle.tar.gz",
-              "sha256": "71cfc3dd72360d9f1dabc947df11ad92ce9ac4f11d989203ca7dcaf48b2e6905"
+              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.16.big_sur.bottle.tar.gz",
+              "sha256": "03ae8eaf8b3d6d97921e0e178a5456863d691b12cbe3c0bd136eb55405320a60"
             },
             "arm64_big_sur": {
-              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.8.arm64_big_sur.bottle.tar.gz",
-              "sha256": "5830a74e0fad078e68c5866deea607846bd70b1e7c47d430a19eeaf625e97170"
+              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.16.arm64_big_sur.bottle.tar.gz",
+              "sha256": "372131c4f425596f3322d207fe2756337c502736c965bf37e5a5a3613130ab41"
             },
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.8.catalina.bottle.tar.gz",
-              "sha256": "32cde0c3e4e40469eae6005df8e3f65fe0aa44aa69a65bb20e422d479571f560"
+              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.16.catalina.bottle.tar.gz",
+              "sha256": "61a8966c6349844c7d1b32678ad29dbecb300068476afe0f3a42b1aa6992be8f"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.8.mojave.bottle.tar.gz",
-              "sha256": "be97c9636cc7faeaf814ec4332bd09c53d7833e2fdd912037542e5c99f32b37c"
+              "url": "https://homebrew.bintray.com/bottles/youtube-dl-2021.1.16.mojave.bottle.tar.gz",
+              "sha256": "feb60565425144139811737ff841ec64bcc6b5661e5b0ee13cb9ce6c41a3ea9b"
             }
           }
         }
@@ -363,11 +367,11 @@
   "system": {
     "macos": {
       "big_sur": {
-        "HOMEBREW_VERSION": "2.7.2",
+        "HOMEBREW_VERSION": "2.7.5",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "3ed9ff27bdd8057d9559670768c6e8bd65835dae",
+        "Homebrew/homebrew-core": "111777ccf1e7e7b46b8e46bbe270a89e25f15705",
         "CLT": "12.3.0.0.1.1607026830",
-        "Xcode": "12.3",
+        "Xcode": "12.0",
         "macOS": "11.1"
       }
     }

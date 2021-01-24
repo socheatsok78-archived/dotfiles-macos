@@ -2,7 +2,7 @@
   "entries": {
     "tap": {
       "homebrew/cask-fonts": {
-        "revision": "f9cabb8f2de5547959293ea019e6563e4dfc9afe"
+        "revision": "2b5547dd10a42d25819679e8955bdad4a10715d3"
       },
       "pp-spaces/khmer-unicode": {
         "revision": "44f0485e8e682aece3d081670a6d7239abf1b918"
@@ -70,7 +70,7 @@
         }
       },
       "font-source-code-pro": {
-        "version": "2.032R-ro-1.052R-it-1.012R-VAR",
+        "version": "2.038R-ro-1.058R-it-1.018R-VAR",
         "options": {
           "full_name": "font-source-code-pro"
         }
@@ -92,11 +92,11 @@
   "system": {
     "macos": {
       "big_sur": {
-        "HOMEBREW_VERSION": "2.7.2",
+        "HOMEBREW_VERSION": "2.7.5",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "3ed9ff27bdd8057d9559670768c6e8bd65835dae",
+        "Homebrew/homebrew-core": "4f9e1c8b12f87dd3acc88aed141301e5ab3415cf",
         "CLT": "12.3.0.0.1.1607026830",
-        "Xcode": "12.3",
+        "Xcode": "12.0",
         "macOS": "11.1"
       }
     }
