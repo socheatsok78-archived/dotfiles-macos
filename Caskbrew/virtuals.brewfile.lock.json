@@ -2,9 +2,21 @@
   "entries": {
     "cask": {
       "virtualbox": {
-        "version": "6.1.16,140961",
+        "version": "6.1.18,142142",
         "options": {
           "full_name": "virtualbox"
+        }
+      },
+      "multipass": {
+        "version": "1.6.2",
+        "options": {
+          "full_name": "multipass"
+        }
+      },
+      "vagrant": {
+        "version": "2.2.14",
+        "options": {
+          "full_name": "vagrant"
         }
       }
     }
@@ -12,12 +24,12 @@
   "system": {
     "macos": {
       "big_sur": {
-        "HOMEBREW_VERSION": "2.7.2",
+        "HOMEBREW_VERSION": "3.0.9-47-g5361c04",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "3ed9ff27bdd8057d9559670768c6e8bd65835dae",
-        "CLT": "12.3.0.0.1.1607026830",
-        "Xcode": "12.3",
-        "macOS": "11.1"
+        "Homebrew/homebrew-core": "1eee40fe5e6e88c17b16856d1d56b135bafc1288",
+        "CLT": "12.4.0.0.1.1610135815",
+        "Xcode": "12.4",
+        "macOS": "11.2.3"
       }
     }
   }
