@@ -2,7 +2,7 @@ tap "hashicorp/tap"
 
 # Apps
 cask "google-chrome"                # Google Chrome
-cask "google-drive-file-stream"     # Google Drive File Stream
+cask "google-drive"                 # Google Drive
 cask "chrome-remote-desktop-host"   # Chrome Remote Desktop Host
 cask "firefox"                      # Firefox
 cask "pocket-casts"                 # Pocket Casts
