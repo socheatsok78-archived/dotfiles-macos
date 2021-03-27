@@ -27,6 +27,3 @@ brew "awscli"
 brew "doctl"
 brew "heroku"
 brew "vercel-cli"
-
-# Unit Test
-brew "phpunit"
