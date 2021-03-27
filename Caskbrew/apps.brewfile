@@ -31,6 +31,3 @@ cask "dozer"                        # Hide menu bar icons
 cask "stand"                        # Reminds you to stand up
 cask "eul"                          # macOS status monitoring app written in SwiftUI
 cask "transmission"                 # Torrent client
-
-# Hashicorp
-cask "vagrant"
