@@ -15,8 +15,7 @@ cask "alacritty"                    # A cross-platform, GPU-accelerated terminal
 cask "iterm2"                       # iTerm2 is a replacement for Terminal
 cask "github"                       # GitHub Desktop
 cask "tableplus"                    # TablePlus
-cask "insomnia"                     # Insomnia
-cask "insomnia-designer"            # Insomnia Designer
+cask "insomnia"                     # Insomnia + Designer
 cask "docker"                       # Docker
 cask "db-browser-for-sqlite"        # SQLite DB Browser
 cask "ngrok"                        # ngrok - secure introspectable tunnels to localhost
