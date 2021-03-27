@@ -17,6 +17,7 @@ brew "deno"                 # Deno A secure runtime for JavaScript and TypeScrip
 brew "yarn"                 # NodeJS Package Manager
 brew "php@7.4"              # PHP v7.4
 brew "composer"             # PHP Package Manager
+brew "virtualenv"           # Python Virtual Env
 
 # Hashicorp
 brew "hashicorp/tap/waypoint"
